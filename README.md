@@ -1,4 +1,4 @@
-# Sistema Bancário em Python
+# Sistema Bancário com POO em Python
 
 Este é um projeto simples de **Sistema Bancário** desenvolvido em **Python**, utilizando conceitos de **POO (Programação Orientada a Objetos)**, como **herança, polimorfismo, abstração e encapsulamento**.  
 
@@ -35,5 +35,5 @@ O sistema permite a criação de clientes, abertura de contas, realização de d
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario.git
+   git clone https://github.com/jaimepramos/sistema_bancario_poo_python.git
    cd sistema-bancario
